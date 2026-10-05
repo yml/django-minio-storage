@@ -1,4 +1,4 @@
-django==1.9
+django==5.2.17
 coverage
 minio
 requests
